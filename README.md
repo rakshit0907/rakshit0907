@@ -130,5 +130,4 @@ Finance tracking application for managing income and expenses.
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats
+## 🔝 Top Contributed
