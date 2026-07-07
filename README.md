@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20IIT%20Guwahati%20Microcredit-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-8A2BE2?style=for-the-badge"/>
   <a href="https://github.com/rakshit0907"><img src="https://img.shields.io/badge/Portfolio-GitHub-8A2BE2?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/rakshit-pandey-96b854309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:rakshitpandey0321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/></a>
@@ -118,4 +116,19 @@ Finance tracking application for managing income and expenses.
 ---
 
 ## 🏅 GitHub Trophies
-![](https://github-profile-trophy.ver
+![](https://github-profile-trophy.vercel.app/?username=rakshit0907&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/rakshit0907/rakshit0907/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats
